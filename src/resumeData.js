@@ -22,21 +22,17 @@ let resumeData = {
   "website":"http://www.mikehanf.com",
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Asia Society",
+        "specialization":"Audio Visual Engineer",
+        "MonthOfLeaving":"March",
+        "YearOfLeaving":"2020",
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Musician",
+        "specialization":"International touring and session work.",
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Some of my skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -50,24 +46,19 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Music is Fun",
+        "description":"A codecademy final project that connects to Spotify API.",
+        "imgurl":"images/musicIsFun.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Modular Synth PCBs",
+        "description":"Circuits for making music that I designed",
+        "imgurl":"images/pcb-design.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"CHS Source",
+        "description":"A project combining Python, ReactJS, and scripts!",  
+        "imgurl":"images/hiE5vMs.gif"
       }
     ],
     "testimonials":[
