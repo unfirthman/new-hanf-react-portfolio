@@ -48,12 +48,14 @@ let resumeData = {
       {
         "name":"Music is Fun",
         "description":"A codecademy final project that connects to Spotify API.",
-        "imgurl":"images/musicIsFun.png"
+        "imgurl":"images/musicIsFun.png",
+        "link":"https://github.com/unfirthman/jamming"
       },
       {
         "name":"Modular Synth PCBs",
         "description":"Circuits for making music that I designed",
-        "imgurl":"images/pcb-design.png"
+        "imgurl":"images/pcb-design.png",
+        "link":"https://github.com/unfirthman/PCBdesigns-modular"
       },
       {
         "name":"CHS Source",
