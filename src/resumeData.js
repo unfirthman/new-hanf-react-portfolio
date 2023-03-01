@@ -45,10 +45,15 @@ let resumeData = {
       }
     ],
     "portfolio":[
+        {
+            "name":"Wonderful Weather App",
+            "description":"A simple weather map that connects to API",
+            "imgurl":"images/100000050016.JPG"
+        },
       {
         "name":"Music is Fun",
         "description":"A codecademy final project that connects to Spotify API.",
-        "imgurl":"images/musicIsFun.png",
+        "imgurl":"../public/images/musicIsFun.png",
         "link":"https://github.com/unfirthman/jamming"
       },
       {
@@ -57,11 +62,6 @@ let resumeData = {
         "imgurl":"images/pcb-design.png",
         "link":"https://github.com/unfirthman/PCBdesigns-modular"
       },
-      {
-        "name":"CHS Source",
-        "description":"A project combining Python, ReactJS, and scripts!",  
-        "imgurl":"images/hiE5vMs.gif"
-      }
     ],
     "testimonials":[
       {
@@ -74,5 +74,5 @@ let resumeData = {
       }
     ]
   }
-  
+
   export default resumeData
