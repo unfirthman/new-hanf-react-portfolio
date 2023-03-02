@@ -46,9 +46,9 @@ let resumeData = {
     ],
     "portfolio":[
         {
-            "name":"Wonderful Weather App",
-            "description":"A simple weather map that connects to API",
-            "imgurl":"images/100000050016.JPG"
+        "name":"Wonderful Weather App",
+        "description":"A simple weather map that connects to API",
+        "imgurl":"images/100000050016.JPG"
         },
       {
         "name":"Music is Fun",
