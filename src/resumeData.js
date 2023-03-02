@@ -48,7 +48,8 @@ let resumeData = {
         {
         "name":"Wonderful Weather App",
         "description":"A simple weather map that connects to API",
-        "imgurl":"images/100000050016.JPG"
+        "imgurl":"images/100000050016.JPG",
+        "link":"https://github.com/unfirthman/weather-app",
         },
       {
         "name":"Modular Synth PCBs",
@@ -59,7 +60,7 @@ let resumeData = {
         {
         "name":"Music is Fun",
         "description":"A codecademy final project that connects to Spotify API.",
-        "imgurl":"../public/images/musicIsFun.png",
+        "imgurl":"images/musicIsFun.png",
         "link":"https://github.com/unfirthman/jamming"
         },
     ],
