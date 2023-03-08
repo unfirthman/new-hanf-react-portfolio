@@ -46,22 +46,23 @@ let resumeData = {
     ],
     "portfolio":[
         {
-            "name":"Wonderful Weather App",
-            "description":"A simple weather map that connects to API",
-            "imgurl":"images/100000050016.JPG"
+        "name":"Wonderful Weather App",
+        "description":"A simple weather map that connects to API",
+        "imgurl":"images/100000050016.JPG",
+        "link":"https://github.com/unfirthman/weather-app"
         },
-      {
-        "name":"Music is Fun",
-        "description":"A codecademy final project that connects to Spotify API.",
-        "imgurl":"../public/images/musicIsFun.png",
-        "link":"https://github.com/unfirthman/jamming"
-      },
       {
         "name":"Modular Synth PCBs",
         "description":"Circuits for making music that I designed",
         "imgurl":"images/pcb-design.png",
         "link":"https://github.com/unfirthman/PCBdesigns-modular"
       },
+        {
+        "name":"Music is Fun",
+        "description":"A codecademy final project that connects to Spotify API.",
+        "imgurl":"images/musicIsFun.png",
+        "link":"https://github.com/unfirthman/jamming"
+        },
     ],
     "testimonials":[
       {
