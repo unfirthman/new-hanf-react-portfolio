@@ -488,15 +488,11 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
 }
-<<<<<<< HEAD
-.portfolio-item .portfolio-item-meta { padding: 18px }
-=======
 .portfolio-item .portfolio-item-meta {
         padding: 18px;
         display: flex;
         box-sizing: content-box;
     }
->>>>>>> d442f45e1f179632950a5c0ede094eab52d2c83f
 .portfolio-item .portfolio-item-meta h5 {
    font: 14px/21px 'opensans-bold', sans-serif;
    color: #fff;
@@ -638,11 +634,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-<<<<<<< HEAD
-	font-family: 'opensans-semibold', sans-serif; 
-=======
 	font-family: 'opensans-semibold', sans-serif;
->>>>>>> d442f45e1f179632950a5c0ede094eab52d2c83f
 	color: #D8D8D8;
 }
 
@@ -666,11 +658,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-<<<<<<< HEAD
-   font: 18px/24px 'opensans-bold', sans-serif;   
-=======
    font: 18px/24px 'opensans-bold', sans-serif;
->>>>>>> d442f45e1f179632950a5c0ede094eab52d2c83f
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
