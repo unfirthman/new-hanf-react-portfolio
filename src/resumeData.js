@@ -48,8 +48,8 @@ let resumeData = {
         {
         "name":"Wonderful Weather App",
         "description":"A simple weather map that connects to API",
-        "imgurl":"images/100000050016.JPG",
-        "link":"https://github.com/unfirthman/weather-app"
+        "imgurl":"../public/images/weatherAppScreenShot",
+        "link":"https://unfirthman.github.io/weather-app/"
         },
       {
         "name":"Modular Synth PCBs",
