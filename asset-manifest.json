@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/new-hanf-react-portfolio/static/css/main.4152c3d3.css",
-    "main.js": "/new-hanf-react-portfolio/static/js/main.b72d28db.js",
+    "main.js": "/new-hanf-react-portfolio/static/js/main.8cc8a19c.js",
     "index.html": "/new-hanf-react-portfolio/index.html",
     "main.4152c3d3.css.map": "/new-hanf-react-portfolio/static/css/main.4152c3d3.css.map",
-    "main.b72d28db.js.map": "/new-hanf-react-portfolio/static/js/main.b72d28db.js.map"
+    "main.8cc8a19c.js.map": "/new-hanf-react-portfolio/static/js/main.8cc8a19c.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.b72d28db.js"
+    "static/js/main.8cc8a19c.js"
   ]
 }
