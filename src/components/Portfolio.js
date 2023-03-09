@@ -16,8 +16,9 @@ export default class Porfolio extends Component {
                                             <div className="item-wrap">
                                                 <a
                                                     href={item.link}
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
+                                                   // target="_blank"  /// test to see if this
+                                                    // changes negative link effects
+                                                  //  rel="noopener noreferrer"
                                                 >
                                                     <img
                                                         className="item-img"

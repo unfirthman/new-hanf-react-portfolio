@@ -48,7 +48,7 @@ let resumeData = {
         {
         "name":"Wonderful Weather App",
         "description":"A simple weather map that connects to API",
-        "imgurl":"../public/images/weatherAppScreenShot",
+        "imgurl":"images/weatherAppScreenShot",
         "link":"https://unfirthman.github.io/weather-app/"
         },
       {
