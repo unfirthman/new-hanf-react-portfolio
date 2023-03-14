@@ -57,6 +57,12 @@ let resumeData = {
         "imgurl":"images/pcb-design.png",
         "link":"https://github.com/unfirthman/PCBdesigns-modular"
       },
+      {
+        "name":"My Music",
+        "description":"Website with my music",
+        "imgurl":"images/hanf-drum.jpg",
+        "link":"https://www.mikehanf.com"
+      },
         {
         "name":"Music is Fun",
         "description":"A codecademy final project that connects to Spotify API.",
