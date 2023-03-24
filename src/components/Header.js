@@ -4,7 +4,7 @@ export default class Header extends Component {
     let resumeData = this.props.resumeData;
     return (
       <React.Fragment>
-      
+
       <header id="home">
          <nav id="nav-wrap">
             <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
@@ -15,6 +15,7 @@ export default class Header extends Component {
              <li><a className="smoothscroll" href="#resume">Resume</a></li>
                <li><a className="smoothscroll" href="#portfolio">Works</a></li>
                <li><a className="smoothscroll" href="#contact">Contact</a></li>
+               <li><a className="smoothscroll" href="https://medium.com/@unfirthman/make-a-chromebook-a-headless-ubuntu-server-ee46ef806db7">Blog</a></li>
             </ul>
          </nav>
 
